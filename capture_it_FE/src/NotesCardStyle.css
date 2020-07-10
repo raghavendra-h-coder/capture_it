@@ -1,0 +1,29 @@
+.NotesCard{
+    overflow: scroll;
+}
+
+.NotesCard_Title{
+    background-color: black;
+    color: gold;
+    height: 10px;
+    width: 200px;
+}
+
+.NotesCard_Notes{
+    background-color: black;
+    color: gold;
+    height: 100px;
+    width: 200px;
+}
+
+.NotesCard_Update{
+    border-radius: 4px;
+    background-color: black;
+    color: gold;
+}
+
+.NotesCard_Delete{
+    border-radius: 4px;
+    background-color: black;
+    color: gold;
+}

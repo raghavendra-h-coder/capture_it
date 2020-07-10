@@ -1,0 +1,20 @@
+.NotesCardPagination{
+    text-align: center;
+}
+
+.LeftArrow{
+    background-color: black;
+    color: gold;
+}
+
+.RightArrow{
+    background-color: black;
+    color: gold;
+}
+
+.PageInput{
+    background-color: black;
+    color: gold;
+    border: none;
+    width: 15px;
+}

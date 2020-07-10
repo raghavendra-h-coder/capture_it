@@ -1,0 +1,29 @@
+.Search_Notes{
+    text-align: center;
+    background-color: black;
+    color: gold;
+    height: 200%;
+}
+
+.SearchNotes_Input{
+    background-color: black;
+    color: gold;
+    border-radius: 4px;
+}
+
+.SearchNotes_Search{
+    background-color: black;
+    color: gold;
+    border-radius: 4px;
+}
+
+.SearchNotes_Add{
+    background-color: black;
+    color: gold;
+    border-radius: 4px;
+}
+
+.NotesCardsDisplay{
+    border-width: 1;
+    border-color: gold;
+}
